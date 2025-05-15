@@ -1,0 +1,19 @@
+00:45:21.766 [main] TRACE com.example.App - Trace message
+00:45:21.766 [main] DEBUG com.example.App - Debugging information
+00:45:21.766 [main] INFO  com.example.App - Hello from Log4j!
+00:45:21.769 [main] WARN  com.example.App - Warning message
+00:45:21.770 [main] ERROR com.example.App - Something went wrong!
+00:45:21.771 [main] FATAL com.example.App - Fatal error occurred
+00:52:21.927 [main] TRACE com.example.App - Trace message
+00:52:21.927 [main] DEBUG com.example.App - Debugging information
+00:52:21.927 [main] INFO  com.example.App - Hello from Log4j!
+00:52:21.929 [main] WARN  com.example.App - Warning message
+00:52:21.930 [main] ERROR com.example.App - Something went wrong!
+00:52:21.931 [main] FATAL com.example.App - Fatal error occurred
+00:53:21.389 [main] TRACE com.example.App - Trace message
+00:53:21.389 [main] DEBUG com.example.App - Debugging information
+00:53:21.389 [main] INFO  com.example.App - Hello from Log4j!
+00:53:21.390 [main] WARN  com.example.App - Warning message
+00:53:21.390 [main] ERROR com.example.App - Something went wrong!
+00:53:21.391 [main] FATAL com.example.App - Fatal error occurred
+
